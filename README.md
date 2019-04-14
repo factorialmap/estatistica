@@ -6,3 +6,4 @@ O material foi feito para aqueles que desejam dar uma refrescada na memória em 
 - Gráfico de Pareto
 - Análise de componentes principais
 - Gráfico de linha
+- Diagrama de Ishikawa ou Diagrama de causa e efeito
